@@ -1,4 +1,4 @@
-package com.example.examplespringbootkotlintdd.integration.api
+package com.example.examplespringbootkotlintdd.integration.controller
 
 import com.example.examplespringbootkotlintdd.controller.dto.CreateUserRequest
 import com.example.examplespringbootkotlintdd.controller.dto.UpdateUserRequest
