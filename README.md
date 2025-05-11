@@ -150,6 +150,8 @@ class UserControllerTest(@Autowired val mockMvc: MockMvc) {
 ---
 
 > **출처:**
-> - [Baeldung: Spring Boot Testing with Kotlin](https://www.baeldung.com/kotlin/spring-boot-testing)[1]
-> - [걷고 또 걷기: Kotlin과 Spring Boot에서의 테스팅 전략](https://walking-and-walking.com/entry/Kotlin%EA%B3%BC-Spring-Boot%EC%97%90%EC%84%9C%EC%9D%98-%ED%85%8C%EC%8A%A4%ED%8C%85-%EC%A0%84%EB%9E%B5)[3]
-> - [Philipp Hauer: Best Practices for Unit Testing in Kotlin](https://phauer.com/2018/best-practices-unit-testing-kotlin/)[5]
+> - [Baeldung: Spring Boot Testing with Kotlin](https://www.baeldung.com/kotlin/spring-boot-testing)
+> - [걷고 또 걷기: Kotlin과 Spring Boot에서의 테스팅 전략](https://walking-and-walking.com/entry/Kotlin%EA%B3%BC-Spring-Boot%EC%97%90%EC%84%9C%EC%9D%98-%ED%85%8C%EC%8A%A4%ED%8C%85-%EC%A0%84%EB%9E%B5)
+> - [Philipp Hauer: Best Practices for Unit Testing in Kotlin](https://phauer.com/2018/best-practices-unit-testing-kotlin/)
+> - [JUnit 공식 문서 - TDD](https://junit.org/junit5/docs/current/user-guide/#writing-tests-tdd)
+> - [Martin Fowler - TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
